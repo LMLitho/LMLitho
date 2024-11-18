@@ -1,4 +1,9 @@
-## Hi there 👋
+# Partial lithography data of our submission "Keep High Fidelity and Generalization: A Large Model-Powered Lithography Simulator" on DAC'25.
+
+- Every tar.gz file contains a source, a mask, and a corresponding resist.
+- The sources have 7 types.
+- The masks have 8 types.
+- All the resists are simulated via commercial tool.
 
 <!--
 **LMLitho/LMLitho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
