@@ -10,8 +10,8 @@
 </div>
 
 - Every tar.gz file contains a source, a mask, and a corresponding resist.
-- The sources have 7 types.
-- The masks have 8 types.
+- The sources have 6 types.
+- The masks have 7 types.
 - All the resists are simulated via commercial tool.
 
 <!--
