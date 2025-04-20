@@ -1,6 +1,6 @@
 <div align="center">
 
-# Partial lithography data of our submission "Keep High Fidelity and Generalization: A Large Model-Powered Lithography Simulator" on DAC'25.
+# Keep High Fidelity and Generalization: A Large Model-Powered Lithography Simulator
 
 [![black](https://img.shields.io/badge/Code%20Style-Black-black.svg?labelColor=gray)](https://black.readthedocs.io/en/stable/)
 [![license](https://img.shields.io/badge/License-MIT-green.svg?labelColor=gray)](https://github.com/ashleve/lightning-hydra-template#license)
