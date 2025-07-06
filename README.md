@@ -23,7 +23,7 @@ Using the generated sources and layouts, we perform OPC using the commercial too
 ### Resist
 From these 0.1 million source-layout-mask pairs, resist images (RIs) are simulated using the commercial lithography tool, yielding a large-scale dataset of 0.1 million source-layout-mask-resist pairs.
 
-Note that both input masks and output RIs are represented with a pixel size of 1nm*1nm, covering an area of $4\mu m^2$ per image. The source patterns are represented at a resolution of $201\times201$ pixels and padded to $256\times 256$ before training.
+Note that both input masks and output RIs are represented with a pixel size of $1{nm}^2$, covering an area of $4\mu m^2$ per image. The source patterns are represented at a resolution of $201\times201$ pixels and padded to $256\times 256$ before training.
 
 <!--
 **LMLitho/LMLitho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
