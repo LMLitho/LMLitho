@@ -11,7 +11,7 @@
 
 ## Dataset Description
 
-The LMLitho dataset is partially available at https://github.com/LMLitho/LMLitho.Optical
+The LMLitho dataset is partially available at https://github.com/LMLitho/LMLitho
 
 ### Source
 We explore six representative source types: circular, annular, bull's eye, di-pole, quasar, and multi-pole. By varying internal parameters, such as inner radius, outer radius, open angle, and rotation angle, we generate 9,000 illumination source configurations. From these, 500 configurations are selected to construct optical models using the commercial tool.
