@@ -1,6 +1,6 @@
 <div align="center">
 
-# [ICCAD'25] LMLitho: A Large Vision Model-Driven Lithography Simulation Framework
+# [ICCAD'25 Best Paper Award Nomination] LMLitho: A Large Vision Model-Driven Lithography Simulation Framework [PDF](https://www.cse.cuhk.edu.hk/~byu/papers/C286-ICCAD2025-LMLitho.pdf)
 
 [![black](https://img.shields.io/badge/Code%20Style-Black-black.svg?labelColor=gray)](https://black.readthedocs.io/en/stable/)
 [![license](https://img.shields.io/badge/License-MIT-green.svg?labelColor=gray)](https://github.com/ashleve/lightning-hydra-template#license)
